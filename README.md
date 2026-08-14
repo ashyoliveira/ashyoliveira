@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:C4B5FD&height=220&section=header&text=Welcome%20to%20my%20space!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Ashilay%20Oliveira%20%E2%80%A2%20Technology%20%7C%20Data%20%7C%20IT&descSize=16&descAlignY=57"/>
 
-### 👋🏾 Hi, I'm Ashilay!
+## 👋🏾 Hi, I'm Ashilay!
 
 `Systems Information` • `Technology` • `Data` • `Infrastructure`
 
@@ -21,6 +21,7 @@ Tenho curiosidade em entender não apenas como uma tecnologia funciona isoladame
 Este GitHub é um espaço para registrar meus estudos, experimentos e minha evolução técnica ao longo dessa jornada.
 
 <br>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -37,13 +38,14 @@ Este GitHub é um espaço para registrar meus estudos, experimentos e minha evol
 
 <br><br>
 
-### Tools
+ *Tools*
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
 
 </div>
 
 <br>
+
 ## 💜 Technologies & Infrastructure
 
 <div align="center">
@@ -67,6 +69,7 @@ Este GitHub é um espaço para registrar meus estudos, experimentos e minha evol
 ```
 
 <br>
+
 ## ✦ Beyond the Code
 
 <div align="center">
@@ -98,7 +101,8 @@ can work together to transform ideas into solutions.
 <br>
 
 <div align="center">
- ✦ Thanks for visiting!
+ 
+ ## ✦ Thanks for visiting!
 
 `Life long learning`
 
