@@ -98,8 +98,8 @@ can work together to transform ideas into solutions.
 <br>
 
 <div align="center">
-### ✦ Thanks for visiting!
+ ✦ Thanks for visiting!
 
-`Always learning • Always building`
+`Life long learningi`
 
 </div>
