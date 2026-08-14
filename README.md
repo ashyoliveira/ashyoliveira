@@ -74,7 +74,7 @@ Este GitHub é um espaço onde registro minha evolução técnica, estudos e pro
 
 <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6"
+    src="https://github-readme-stats.vercel.app/api?username=ashyoliveira&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6"
 />
 
 <img
@@ -93,7 +93,7 @@ Este GitHub é um espaço onde registro minha evolução técnica, estudos e pro
 <div align="center">
 
 <img
-    src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=transparent&hide_border=true"
+    src="https://streak-stats.demolab.com?user=ashyoliveira&theme=transparent&hide_border=true"
 />
 
 </div>
