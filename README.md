@@ -63,17 +63,16 @@ Este GitHub é um espaço para registrar meus estudos, experimentos e minha evol
 <div align="center">
 
 <img
-    width="48%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashyoliveira&theme=default&title_color=7C3AED&text_color=4B5563&bg_color=00000000&border_color=DDD6FE&icon_color=A78BFA&animation=fade"
+    width="49%"
+    src="./profile-summary-card-output/github_dark/3-stats.svg"
 />
 
 <img
-    width="48%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashyoliveira&theme=default&title_color=7C3AED&text_color=4B5563&bg_color=00000000&border_color=DDD6FE&chart_color=8B5CF6&animation=fade"
+    width="49%"
+    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
 />
 
 </div>
-
 
 <br>
 
