@@ -1,106 +1,92 @@
 <div align="center">
 
-# ✦ Hello, I'm Ashilay! ✦
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:C4B5FD&height=220&section=header&text=Welcome%20to%20my%20space!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Ashilay%20Oliveira%20%E2%80%A2%20Technology%20%7C%20Data%20%7C%20IT&descSize=16&descAlignY=57"/>
 
-### Systems Information Student
+### 👋🏾 Hi, I'm Ashilay!
 
-**Technology • Data • Infrastructure • IT**
-
-<br>
-
-Building, learning and turning ideas into technology.
+`Systems Information` • `Technology` • `Data` • `Infrastructure`
 
 <br>
 
 </div>
 
----
-
 ## 👩🏾‍💻 About Me
 
-Olá! Eu sou **Ashilay Oliveira** 👋🏾
+Olá! Eu sou **Ashilay Oliveira**.
 
-Sou estudante de **Sistemas de Informação** e construo minha trajetória explorando diferentes áreas da tecnologia, passando por desenvolvimento, dados, infraestrutura e gestão.
+Sou estudante de **Sistemas de Informação** e venho construindo minha trajetória explorando diferentes áreas da tecnologia, passando por desenvolvimento, dados, infraestrutura e gestão.
 
-Tenho interesse em entender não apenas como uma tecnologia funciona isoladamente, mas como diferentes soluções podem se conectar para resolver problemas reais.
+Tenho curiosidade em entender não apenas como uma tecnologia funciona isoladamente, mas como diferentes soluções podem se conectar para resolver problemas reais.
 
-Este GitHub é um espaço onde registro minha evolução técnica, estudos e projetos enquanto continuo expandindo meus conhecimentos em tecnologia.
+Este GitHub é um espaço para registrar meus estudos, experimentos e minha evolução técnica ao longo dessa jornada.
 
 <br>
-
----
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)
-![Ruby](https://img.shields.io/badge/Ruby-20232A?style=for-the-badge&logo=ruby&logoColor=CC342D)
-![SQL](https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=mysql&logoColor=4479A1)
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,ruby,mysql&theme=light" />
 
-<br>
+<br><br>
 
-### 🎨 Front-end
+### Front-end
 
-![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=646CFF)
+<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=light" />
 
-<br>
+<br><br>
 
-### ⚙️ Tools & Infrastructure
+### Tools
 
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-20232A?style=for-the-badge&logo=grafana&logoColor=F46800)
-![Zabbix](https://img.shields.io/badge/Zabbix-20232A?style=for-the-badge&logo=zabbix&logoColor=D40000)
-![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4479A1)
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
 
 </div>
 
 <br>
 
----
+## 💜 Technologies & Infrastructure
+
+<div align="center">
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-6D28D9?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+<br>
 
 ## 📊 GitHub Overview
 
 <div align="center">
 
 <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=ashyoliveira&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6"
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=ashyoliveira&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=A78BFA&text_color=777777"
 />
 
 <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6"
+    width="42%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashyoliveira&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=777777"
 />
 
 </div>
 
 <br>
-
----
 
 ## 📈 Activity
 
 <div align="center">
 
 <img
-    src="https://streak-stats.demolab.com?user=ashyoliveira&theme=transparent&hide_border=true"
+    src="https://streak-stats.demolab.com?user=ashyoliveira&theme=transparent&hide_border=true&ring=7C3AED&fire=A78BFA&currStreakLabel=7C3AED"
 />
 
 </div>
 
 <br>
-
----
 
 ## 📚 Currently Learning
 
@@ -114,8 +100,6 @@ Este GitHub é um espaço onde registro minha evolução técnica, estudos e pro
 
 <br>
 
----
-
 ## ✦ Beyond the Code
 
 <div align="center">
@@ -127,34 +111,30 @@ I believe technology goes beyond writing code.
 I'm interested in understanding how **people, processes and technology**
 can work together to transform ideas into solutions.
 
-<br>
-
 **Curiosity → Learning → Building → Evolution**
 
 </div>
 
 <br>
 
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-20232A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ashilay-oliveira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashilay-oliveira/)
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-20232A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:SEU-EMAIL)
+[![Email](https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashilaydeoliveira@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-303030?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashyoliveira)
 
 </div>
 
 <br>
 
----
-
 <div align="center">
 
-### ✦ Thanks for visiting my profile!
+### ✦ Thanks for visiting!
 
-**Always learning. Always building.**
+`Always learning • Always building`
 
 </div>
