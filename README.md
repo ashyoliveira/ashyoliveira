@@ -54,19 +54,23 @@ Este GitHub é um espaço para registrar meus estudos, experimentos e minha evol
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-6D28D9?style=for-the-badge&logo=mysql&logoColor=white)
 
-</div>
+
+
+<br>
 
 ## 📊 GitHub Overview
 
 <div align="center">
 
-<img width="49%" src="./profile-summary-card-output/SEU-TEMA/3-stats.svg" />
-<img width="49%" src="./profile-summary-card-output/SEU-TEMA/1-repos-per-language.svg" />
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" />
+
+<br>
+
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
 
 </div>
 
 <br>
-
 <br>
 
 ## 📚 Currently Learning
