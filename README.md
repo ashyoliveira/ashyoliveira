@@ -86,7 +86,8 @@ can work together to transform ideas into solutions.
 </div>
 
 <br>
-## 🤝 Let's Connect
+
+## Let's Connect!
 
 <div align="center">
 
