@@ -26,13 +26,13 @@ Este GitHub é um espaço para registrar meus estudos, experimentos e minha evol
 
 <div align="center">
 
-### Languages
+*Languages*
 
 <img src="https://skillicons.dev/icons?i=js,ts,java,python,ruby,mysql&theme=light" />
 
 <br><br>
 
-### Front-end
+*Front-end*
 
 <img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=light" />
 
