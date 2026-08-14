@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ashyoliveira/ashyoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✦ Hello, I'm Ashilay! ✦
 
-Here are some ideas to get you started:
+### Systems Information Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technology • Data • IT**
+
+<br>
+
+Building, learning and turning ideas into technology.
+
+<br>
+
+</div>
+
+---
+
+## 👩🏾‍💻 About Me
+
+Olá! Eu sou **Ashilay Oliveira** 👋🏾
+
+Sou estudante de **Sistemas de Informação** e construo minha trajetória explorando diferentes áreas da tecnologia, unindo desenvolvimento, dados, infraestrutura e gestão.
+
+Gosto de entender não apenas como uma tecnologia funciona, mas como diferentes soluções podem se conectar para resolver problemas reais.
+
+Atualmente, continuo expandindo meus conhecimentos enquanto construo novos projetos e utilizo este espaço para registrar parte dessa evolução.
