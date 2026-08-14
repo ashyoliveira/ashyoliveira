@@ -54,7 +54,7 @@ Este GitHub é um espaço para registrar meus estudos, experimentos e minha evol
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-6D28D9?style=for-the-badge&logo=mysql&logoColor=white)
 
-
+</div>
 
 <br>
 
@@ -71,7 +71,6 @@ Este GitHub é um espaço para registrar meus estudos, experimentos e minha evol
 
 <br>
 
-<br>
 
 ## 📚 Currently Learning
 
