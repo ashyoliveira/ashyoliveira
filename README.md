@@ -21,7 +21,6 @@ Tenho curiosidade em entender não apenas como uma tecnologia funciona isoladame
 Este GitHub é um espaço para registrar meus estudos, experimentos e minha evolução técnica ao longo dessa jornada.
 
 <br>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -45,7 +44,6 @@ Este GitHub é um espaço para registrar meus estudos, experimentos e minha evol
 </div>
 
 <br>
-
 ## 💜 Technologies & Infrastructure
 
 <div align="center">
@@ -57,21 +55,18 @@ Este GitHub é um espaço para registrar meus estudos, experimentos e minha evol
 </div>
 
 <br>
-
 ## 📊 GitHub Overview
 
 <div align="center">
 
 <img
-  width="100%"
-  src="./profile-summary-card-output/github_dark/0-profile-details.svg"
+    width="75%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashyoliveira&theme=github_dark&title_color=F472B6&text_color=F8FAFC&bg_color=0D1117&border_color=30363D&icon_color=A78BFA&chart_color=8B5CF6"
 />
 
 </div>
 
 <br>
-
-
 ## 📚 Currently Learning
 
 ```text
@@ -83,7 +78,6 @@ Este GitHub é um espaço para registrar meus estudos, experimentos e minha evol
 ```
 
 <br>
-
 ## ✦ Beyond the Code
 
 <div align="center">
@@ -100,7 +94,6 @@ can work together to transform ideas into solutions.
 </div>
 
 <br>
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -116,7 +109,6 @@ can work together to transform ideas into solutions.
 <br>
 
 <div align="center">
-
 ### ✦ Thanks for visiting!
 
 `Always learning • Always building`
