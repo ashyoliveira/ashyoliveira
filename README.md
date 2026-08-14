@@ -63,16 +63,17 @@ Este GitHub é um espaço para registrar meus estudos, experimentos e minha evol
 <div align="center">
 
 <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=ashyoliveira&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=A78BFA&text_color=777777"
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashyoliveira&theme=default&title_color=7C3AED&text_color=4B5563&bg_color=00000000&border_color=DDD6FE&icon_color=A78BFA&animation=fade"
 />
 
 <img
-    width="42%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashyoliveira&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=777777"
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashyoliveira&theme=default&title_color=7C3AED&text_color=4B5563&bg_color=00000000&border_color=DDD6FE&chart_color=8B5CF6&animation=fade"
 />
 
 </div>
+
 
 <br>
 
@@ -81,7 +82,8 @@ Este GitHub é um espaço para registrar meus estudos, experimentos e minha evol
 <div align="center">
 
 <img
-    src="https://streak-stats.demolab.com?user=ashyoliveira&theme=transparent&hide_border=true&ring=7C3AED&fire=A78BFA&currStreakLabel=7C3AED"
+    width="96%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashyoliveira&theme=default&title_color=7C3AED&text_color=4B5563&bg_color=00000000&border_color=DDD6FE&chart_color=8B5CF6&animation=draw"
 />
 
 </div>
