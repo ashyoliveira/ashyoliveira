@@ -141,7 +141,7 @@ can work together to transform ideas into solutions.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-20232A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](SEU-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-20232A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ashilay-oliveira/)
 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-20232A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:SEU-EMAIL)
 
