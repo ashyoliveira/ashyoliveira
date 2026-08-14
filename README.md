@@ -100,6 +100,6 @@ can work together to transform ideas into solutions.
 <div align="center">
  ✦ Thanks for visiting!
 
-`Life long learningi`
+`Life long learning`
 
 </div>
