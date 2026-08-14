@@ -64,13 +64,11 @@ Este GitHub é um espaço para registrar meus estudos, experimentos e minha evol
 
 <img src="./profile-summary-card-output/github_dark/3-stats.svg" />
 
-<br>
 
 <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
 
 </div>
 
-<br>
 <br>
 
 ## 📚 Currently Learning
