@@ -62,12 +62,14 @@ Este GitHub é um espaço para registrar meus estudos, experimentos e minha evol
 
 <div align="center">
 
-<img src="./profile-summary-card-output/github_dark/3-stats.svg" />
-
-
-<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+<img
+  width="100%"
+  src="./profile-summary-card-output/github_dark/0-profile-details.svg"
+/>
 
 </div>
+
+<br>
 
 <br>
 
